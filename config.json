@@ -1,0 +1,5 @@
+{
+    "cloud_data_url": "https://your-cloud-storage-link.com/business_data.json",
+    "default_sort": "profit_per_hour",
+    "investment_threshold": 1000000
+}
