@@ -73,10 +73,10 @@ print(best_businesses[["name", "profit_per_hour", "investment_cost", "roi"]])
 
 ## 🖼 Examples
 📌 **Profit tracking dashboard:**  
-![Business Profits](assets/business_profits_example.png)  
+![Business Profits](1.png)  
 
 📌 **Investment return calculations:**  
-![ROI Analysis](assets/roi_analysis_example.png)  
+![ROI Analysis](2.png)  
 
 ---
 
